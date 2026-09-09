@@ -1,0 +1,5 @@
+soccerdata>=1.8.0
+pandas>=2.0
+streamlit>=1.35
+lxml
+html5lib
